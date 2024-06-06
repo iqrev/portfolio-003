@@ -1,7 +1,7 @@
 "use client";
-g
-const MobileNave = () => {
-  return <div>MobileNave</div>;
+
+const MobileNav = () => {
+  return <div>=</div>;
 };
 
-export default MobileNave;
+export default MobileNav;

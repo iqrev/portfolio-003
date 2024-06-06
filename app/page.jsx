@@ -22,7 +22,7 @@ const Home = () => {
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button className="uppercase gap-2">
+              <Button variant="outline" size="lg" className="uppercase gap-2">
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
               </Button>
@@ -36,7 +36,7 @@ const Home = () => {
           </div>
           {/* photo */}
           <div>
-            <Photo  />
+            <Photo />
           </div>
         </div>
       </div>
